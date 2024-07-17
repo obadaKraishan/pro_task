@@ -21,7 +21,7 @@ It supports both light and dark themes and stores data locally using Hive.
 ### Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/pro_task.git
+    git clone https://github.com/obadaKraishan/pro_task.git
     cd pro_task
     ```
 
