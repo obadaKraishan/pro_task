@@ -60,9 +60,6 @@ It supports both light and dark themes and stores data locally using Hive.
 ### Toggling Todo Status
 1. In the todo list, use the checkbox to mark a todo as completed or pending.
 
-## Screenshots
-Include some screenshots of your app here to give users a visual overview of your application.
-
 ## Built With
 - [Flutter](https://flutter.dev/) - The framework used
 - [Hive](https://pub.dev/packages/hive) - A lightweight and fast key-value database
